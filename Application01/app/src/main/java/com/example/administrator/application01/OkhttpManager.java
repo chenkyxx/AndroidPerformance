@@ -1,8 +1,6 @@
 package com.example.administrator.application01;
 
-/**
- * Created by Administrator on 2017/2/24.
- */
+
 
 
 import android.os.Handler;
