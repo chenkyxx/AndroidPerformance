@@ -2,8 +2,8 @@
 ### 1. android app 中 FPS  CPU Menmory block crash leakcanary
 #### 1.1 例如进行App崩溃捕获时
 
-'''@Override ...
-'''public void onCreate() {'''
+\'''@Override ...\
+\'''public void onCreate() {'''\
 '''    super.onCreate();'''
 '''    System.out.print("MyApplication--onCreate");'''
 '''    //crash'''
